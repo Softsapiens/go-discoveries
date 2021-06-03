@@ -1,0 +1,9 @@
+= Golang Discoveries
+:author: Dani
+:toc:
+
+This repository is a recopilation of several snippets used to discover and practice Golang concepts and ways of solving problems.
+
+For example:
+
+. link:./blocking[Blocking] is an example of how to add cancelation behaviour into a long CPU bounded tasks.
